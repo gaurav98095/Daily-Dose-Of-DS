@@ -110,3 +110,9 @@ predictions = hb_model.predict(X_test)
 * `RandomForestClassifier` / `Regressor`
 * `GradientBoostingClassifier`
 * `XGBoost` and `LightGBM` trees
+
+
+## Fine-tune DeepMind's Gemma 3 (100% locally)
+Talking of LLM fine-tuning, let us see how LLMs are fine-tuned in practice.
+
+Refer <a href="finetuneGemma.py">Code</a>
